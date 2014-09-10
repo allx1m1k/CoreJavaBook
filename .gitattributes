@@ -6,3 +6,4 @@
 *.bat       eol=crlf
 *.sln       eol=crlf
 *.ico       -text
+*.gif       -text
