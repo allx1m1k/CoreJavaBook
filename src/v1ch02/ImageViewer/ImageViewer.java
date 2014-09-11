@@ -51,7 +51,7 @@ class ImageViewerFrame extends JFrame
       JMenuBar menuBar = new JMenuBar();
       setJMenuBar(menuBar);
 
-      JMenu menu = new JMenu("File");
+      JMenu menu = new JMenu("File.");
       menuBar.add(menu);
 
       JMenuItem openItem = new JMenuItem("Open");
